@@ -1,0 +1,16 @@
+Package: com.makep228.demolauncher
+Name: DemoLauncher
+Description: Automatically opens a chosen app after a period of no touch or movement. Includes a Settings page with on/off switch, idle timer, target app and Respring.
+Author: Makep228
+Maintainer: Makep228
+Section: Tweaks
+Depends: preferenceloader
+Architecture: iphoneos-arm64
+Version: 1.1.0
+Installed-Size: 365
+Filename: ./com_makep228_demolauncher_1_1_0_iphoneos-arm64.deb
+Size: 12274
+MD5sum: d03a5d6b59e37452be2e76b233c74611
+SHA1: 3d538f267dd59fd6b7db34ac3a5336b39fb8c6b4
+SHA256: 125c9621852481d00f4723f7cd9f0b484a647be7e298e33389bc38a1cfca22fa
+
